@@ -2304,3 +2304,7 @@ section {
 .res{
   float: left;
 }
+
+.logo-1{
+  margin-top: -4px!important;
+}
