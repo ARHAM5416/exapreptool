@@ -88,6 +88,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
+  margin-top: 5px;
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
@@ -2327,4 +2328,25 @@ ul.cd-faq__categories {
 
 .mar{
   margin-left: 25px;
+}
+
+.pt{
+  padding-top: 5px!important;
+  padding-bottom: 20px;
+}
+
+.des{
+  color: black!important;
+  font-size: large!important;
+  font-weight: bold!important;
+  margin-bottom: 5px!important;
+}
+
+@media(max-width: 343px) {
+  .sml {
+    font-size: 23px;
+  }
+  .mar{
+    margin-left: 5px;
+  }
 }
