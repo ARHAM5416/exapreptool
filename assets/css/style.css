@@ -2346,13 +2346,13 @@ ul.cd-faq__categories {
   margin-bottom: 5px!important;
 }
 
-@media(max-width: 343px) {
-  .sml {
+@media(max-width: 351px) {
+  .head-title {
     font-size: 23px;
   }
-  .mar{
+  /* .mar{
     margin-left: 5px;
-  }
+  } */
 }
 
 .result-form {
