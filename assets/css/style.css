@@ -2408,3 +2408,6 @@ label.star:before {
   content: '\f006';
   font-family: FontAwesome
 }
+.contact-form-textarea {
+  height: 134px;
+}
