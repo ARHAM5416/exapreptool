@@ -2411,3 +2411,9 @@ label.star:before {
 .contact-form-textarea {
   height: 134px;
 }
+
+@media(max-width: 992px){
+  .side-n{
+    display: none;
+  }
+}
