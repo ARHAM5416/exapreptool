@@ -2417,3 +2417,14 @@ label.star:before {
     display: none;
   }
 }
+
+.blur-text {
+  color: transparent;
+  text-shadow: 0 0 8px #000;
+}
+
+
+.custom-btn-bg, .custom-btn-bg:hover, .custom-btn-bg:active, .custom-btn-bg:visited {
+  background-color: #68A4C4;
+  color: #fff;
+}
