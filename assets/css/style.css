@@ -1985,7 +1985,7 @@ section {
 .blog .sidebar {
   padding: 30px;
   /* margin: 0 0 60px 20px; */
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1); */
 }
 
 .blog .sidebar .sidebar-title {
@@ -2427,4 +2427,8 @@ label.star:before {
 .custom-btn-bg, .custom-btn-bg:hover, .custom-btn-bg:active, .custom-btn-bg:visited {
   background-color: #68A4C4;
   color: #fff;
+}
+
+.jsCalendar table {
+  margin: 0px!important;
 }
