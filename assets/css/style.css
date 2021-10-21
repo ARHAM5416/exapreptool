@@ -2432,3 +2432,9 @@ label.star:before {
 .jsCalendar table {
   margin: 0px!important;
 }
+
+.b-header{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.2rem;
+}
