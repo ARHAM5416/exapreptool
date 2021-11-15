@@ -2444,3 +2444,9 @@ label.star:before {
     width: 50%;
   }
 }
+
+@media (max-width: 991px) {
+  .resolve-doubt {
+    width: 100%;
+  }
+}
