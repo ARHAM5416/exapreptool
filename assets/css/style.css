@@ -2438,3 +2438,9 @@ label.star:before {
   font-style: italic;
   font-size: 1.2rem;
 }
+
+@media (min-width: 991px) {
+  .resolve-doubt {
+    width: 50%;
+  }
+}
