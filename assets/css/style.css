@@ -2455,3 +2455,11 @@ label.star:before {
   padding-right: 10px;
   padding-left: 10px;
 }
+
+.comment{
+  font-size: 14px;
+}
+
+.reply{
+  font-size: 14px;
+}
