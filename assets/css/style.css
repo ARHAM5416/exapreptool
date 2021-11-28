@@ -2457,9 +2457,17 @@ label.star:before {
 }
 
 .comment{
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .reply{
-  font-size: 14px;
+  font-size: 13px;
+}
+
+.comment-q{
+  font-size: 13px;
+}
+
+.reply-a{
+  font-size: 13px;
 }
